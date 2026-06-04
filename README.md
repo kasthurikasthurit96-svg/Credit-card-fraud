@@ -266,7 +266,10 @@ The evaluation metrics help determine prediction accuracy and model performance.
 
 # 12. Dashboard Visualization
 An interactive dashboard was created using Plotly.
-
+Scatter Chart – Time vs Amount (filtered view, colored by class)
+Bar Chart – Fraud count by hour of day
+Pie Chart – Normal vs Fraud distribution
+Histogram – Transaction amount distribution by class
 ## Dashboard Features
 
 ### Fraud Distribution Visualization
@@ -291,7 +294,7 @@ Displays low, medium, and high-risk transactions.
 * Zoom and hover analysis
 
 
-# 13. Results and Findings
+## 13. Results and Findings
 
 The analysis produced the following findings:
 
